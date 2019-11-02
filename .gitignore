@@ -1,0 +1,14 @@
+#Projects files#
+.idea
+*.iml
+
+#Ready compile class file#
+*.class
+
+#Folders#
+target
+
+#Package Files#
+*.jar
+     *.war
+     *.ear
